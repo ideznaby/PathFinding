@@ -3,7 +3,7 @@ Pathfinding or pathing is the plotting, by a computer application, of the shorte
 
 Here is a program to solve pathfinding problem with 4 algorithms(A* , RBFS , LRTA* , SMA*) that we will describe them in this article later but first i want to talk about using the program.
 
-You can download source code from here the code is written in C# language and in visual studio 2010
+The code is written in C# language and in visual studio 2010
 
 1 . How to use program :
 
@@ -24,8 +24,7 @@ Fifth Line - X and Y of each obstacles separated by comma and obstacles separate
 Then you can run the program and press "Load Input File" button to open Input file you created ( or the ready ones from program source ) then you have to Click on one of the algorithm buttons to solve the program using that algorithm. If you click on online button the robot simply has no knowledge of the map so it's gonna begin discovering and learning immediately or if you click any of others the robot is gonna think a while( depending on hardness of your problem ) and find the solution and then will move to goal point and in the end will show the steps and distance traveled.
 
 ScreenShot :
-
-pathfinder screenshot
+![ScreenShot](/AIproject/screenshots/input4.JPG)
 
 2 . About Source Code
 
